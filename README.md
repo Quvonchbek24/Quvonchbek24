@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Quvonchbek Olimovich
-- 👀 I’m interested in - Python
-- 📫 How to reach me t.me/webdev222
+- 👀 I’m interested in - Python programming
